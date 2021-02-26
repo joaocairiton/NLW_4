@@ -8,11 +8,11 @@ export function Profile() {
   return (
     <div className={styles.profileContainer}>
       <img
-        src="https://assets.change.org/photos/8/rs/wx/ldRSwXeXPMCOQUE-800x450-noPad.jpg?1563944095"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8e3DX5MHGUaBvItelfLnnvIoLVz5xbPyrsw&usqp=CAU"
         alt=""
       />
       <div className="">
-        <strong>joao Frango</strong>
+        <strong>joao Cairiton</strong>
         <p>
             <img src="icons/level.svg"/>
             Level {level}
